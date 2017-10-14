@@ -3,21 +3,24 @@
 
 ##menu 导航菜单显示
 menu:
-- page: home
+- page: 首页
   url: /
   icon: fa-home
-- page: 前端
-  url: /categories/前端/
+- page: UBC
+  url: /categories/UBC/
   icon: 
-- page: 后端
-  url: /categories/后端/
+- page: 夏令营
+  url: /categories/夏令营/
+  icon:
+- page: 餐饮
+  url: /categories/餐饮/
   icon: 
-- page: 工具
-  url: /categories/工具/
-  icon: 
-- page: 资源
-  url: /categories/资源/
-  icon: 
+- page: 购物
+  url: /categories/购物/
+  icon:
+- page: 室外游乐场
+  url: /categories/室外游乐场/
+  icon:
 
 
 ## favicon 
